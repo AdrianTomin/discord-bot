@@ -90,7 +90,7 @@ Provides a weather forecast for a specified location with options for metric or 
 | units     | String | **Optional**. Sets the unit system for the forecast. Options are "metric" (default) or "imperial".                    |
 
 #### `/astro`
-Provides the moonrise/set and sunrise/set astrological data for a specified location
+Provides the moonrise/set and sunrise/set astrological data for a specified location.
 
 | Option    | Type   | Description                                                                                                           |
 |-----------|--------|-----------------------------------------------------------------------------------------------------------------------|
