@@ -1,6 +1,6 @@
 # 🌦️ Discord Weather Forecast Bot
 
-This project is a Discord bot that provides weather forecasts for specified locations. It utilizes the [WeatherAPI](https://www.weatherapi.com/) for weather data and the Discord API for bot interactions.
+This project is a Discord bot that provides weather forecasts for specified locations. It utilizes the [WeatherAPI](https://www.weatherapi.com/) for weather data and the [Discord API](https://discord.js.org/) for bot interactions.
 
 Built With: 
 <br>
@@ -43,7 +43,7 @@ Built With:
    ```bun install```
    
 ## 🛠️ Configuration
-- Create a ```.env``` file in the root of the project and add the required API keys as shown below:
+Create a ```.env``` file in the root of the project and add the required API keys as shown below:
   ```
   DISCORD_TOKEN=your_discord_token_here
   WEATHER_API_KEY=your_weatherapi_key_here
